@@ -1,0 +1,6 @@
+transformers
+torch
+nltk
+datasets
+rouge_score
+accelerate -U
